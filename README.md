@@ -12,7 +12,7 @@
 - Redes de Computadores (conceitos básicos)  
 - Git e GitHub  
 
-## 📂 Projetos acadêmicos
+## 📂 Projetos extras
 - 📊 Banco de dados com consultas SQL
 - 🧠 Exercícios de lógica de programação
 - 🗄️ Modelagem de banco de dados
