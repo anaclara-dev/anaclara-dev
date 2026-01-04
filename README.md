@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Ana Clara
 
-<!--
-**anaclara-dev/anaclara-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre – Estácio, presencial)  
+💻 Interessada em Banco de Dados, SQL, Redes e Desenvolvimento  
+📍 Brasil | Brasília
+📌 Em busca de estágio ou primeira oportunidade em TI  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e conhecimentos
+- Banco de Dados Relacionais  
+- SQL (SELECT, INSERT, UPDATE, DELETE, JOINs)  
+- Modelagem de Dados  
+- Redes de Computadores (conceitos básicos)  
+- Git e GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos acadêmicos
+- 📊 Banco de dados com consultas SQL
+- 🧠 Exercícios de lógica de programação
+- 🗄️ Modelagem de banco de dados
+
+## 📫 Contato
+- Email: anaclarinha250@gmail.com.
